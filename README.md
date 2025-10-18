@@ -100,9 +100,9 @@ All analytical logic is built using **SQL**, focusing on:
 ---
 
 ## ⚙️ Tools & Technologies  
-- **SQL** – Querying and data analysis  
-- **Power BI** – Dashboard visualization  
-- **Excel** – Data cleaning and validation  
+- **SQL** - Querying and data analysis  
+- **Power BI** - Dashboard visualization  
+- **Excel** - Data cleaning and validation  
 
 ---
 
