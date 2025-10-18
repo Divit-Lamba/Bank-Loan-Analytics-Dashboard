@@ -95,6 +95,7 @@ All analytical logic is built using **SQL**, focusing on:
 | "[Read.me](https://github.com/Divit-Lamba/Bank-Loan-Analytics-Dashboard/blob/main/README.md)" | Main project documentation (this file) |
 | "[Sample Data](https://github.com/Divit-Lamba/Bank-Loan-Analytics-Dashboard/blob/main/financial_loan.csv)" | Sample dataset used for analysis |
 | "[PDF of Dashboard](https://github.com/Divit-Lamba/Bank-Loan-Analytics-Dashboard/blob/main/Bank_Loan.pdf)" | Contains screenshots of dashboards |
+| "[Pbix of Dashboard](https://github.com/Divit-Lamba/Bank-Loan-Analytics-Dashboard/blob/main/Bank_Loan.pbix)" | Contains Power BI file of dashboards |
 
 ---
 
