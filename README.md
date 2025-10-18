@@ -99,8 +99,8 @@ All analytical logic is built using **SQL**, focusing on:
 ---
 
 ## ⚙️ Tools & Technologies  
-- **SQL / MySQL** – Querying and data analysis  
-- **Power BI / Tableau** – Dashboard visualization  
+- **SQL** – Querying and data analysis  
+- **Power BI** – Dashboard visualization  
 - **Excel** – Data cleaning and validation  
 
 ---
