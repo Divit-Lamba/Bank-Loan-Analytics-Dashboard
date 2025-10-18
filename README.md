@@ -92,7 +92,7 @@ All analytical logic is built using **SQL**, focusing on:
 | "[Loan_Queries Document](https://github.com/Divit-Lamba/Bank-Loan-Analytics-Dashboard/blob/main/BANK%20LOAN%20REPORT%20QUERY%20DOCUMENT.docx)" | SQL scripts for KPI calculation and data extraction |
 | "[Domain Knowledge](https://github.com/Divit-Lamba/Bank-Loan-Analytics-Dashboard/blob/main/Domain%20Knowledge.docx)" | Business logic and context for all metrics |
 | “[Terminologies Used Document](https://github.com/Divit-Lamba/Bank-Loan-Analytics-Dashboard/blob/main/Terminologies%20Used.docx)” | Field-wise explanation of dataset terms |
-| "[Read.me](https://github.com/Divit-Lamba/Bank-Loan-Analytics-Dashboard/blob/main/README.md)" | Main project documentation (this file) |
+| "[ReadmMe](https://github.com/Divit-Lamba/Bank-Loan-Analytics-Dashboard/blob/main/README.md)" | Main project documentation (this file) |
 | "[Sample Data](https://github.com/Divit-Lamba/Bank-Loan-Analytics-Dashboard/blob/main/financial_loan.csv)" | Sample dataset used for analysis |
 | "[PDF of Dashboard](https://github.com/Divit-Lamba/Bank-Loan-Analytics-Dashboard/blob/main/Bank_Loan.pdf)" | Contains screenshots of dashboards |
 | "[Pbix of Dashboard](https://github.com/Divit-Lamba/Bank-Loan-Analytics-Dashboard/blob/main/Bank_Loan.pbix)" | Contains Power BI file of dashboards |
