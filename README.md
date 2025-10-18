@@ -68,7 +68,7 @@ Examples:
 - **Interest Rate:** Annual cost of borrowing.  
 - **Loan Amount:** Total principal borrowed.  
 
-📘 *Full terminology explanation included in the “Terminologies_Document.md” file.*
+📘 *Full terminology explanation included in the “[Terminologies Used Document](https://github.com/Divit-Lamba/Bank-Loan-Analytics-Dashboard/blob/main/Terminologies%20Used.docx)”.*
 
 ---
 
@@ -81,7 +81,7 @@ All analytical logic is built using **SQL**, focusing on:
 - Loan status-based grid reporting  
 - Average interest and DTI calculations  
 
-📄 *Refer to `Loan_Queries.sql` for detailed scripts.*
+📄 *Refer to "[Loan_Queries Document](https://github.com/Divit-Lamba/Bank-Loan-Analytics-Dashboard/blob/main/BANK%20LOAN%20REPORT%20QUERY%20DOCUMENT.docx)" for detailed scripts.*
 
 ---
 
@@ -89,12 +89,12 @@ All analytical logic is built using **SQL**, focusing on:
 
 | **File Name** | **Description** |
 |----------------|-----------------|
-| `Loan_Queries.sql` | SQL scripts for KPI calculation and data extraction |
-| `Domain_Knowledge.md` | Business logic and context for all metrics |
-| `Terminologies_Used.md` | Field-wise explanation of dataset terms |
-| `README.md` | Main project documentation (this file) |
-| `data_sample.csv` | Sample dataset used for analysis |
-| `dashboard_snapshots/` | Contains screenshots or exports of dashboards |
+| "[Loan_Queries Document](https://github.com/Divit-Lamba/Bank-Loan-Analytics-Dashboard/blob/main/BANK%20LOAN%20REPORT%20QUERY%20DOCUMENT.docx)" | SQL scripts for KPI calculation and data extraction |
+| "[Domain Knowledge](https://github.com/Divit-Lamba/Bank-Loan-Analytics-Dashboard/blob/main/Domain%20Knowledge.docx)" | Business logic and context for all metrics |
+| “[Terminologies Used Document](https://github.com/Divit-Lamba/Bank-Loan-Analytics-Dashboard/blob/main/Terminologies%20Used.docx)” | Field-wise explanation of dataset terms |
+| "[Read.me](https://github.com/Divit-Lamba/Bank-Loan-Analytics-Dashboard/blob/main/README.md)" | Main project documentation (this file) |
+| "[Sample Data](https://github.com/Divit-Lamba/Bank-Loan-Analytics-Dashboard/blob/main/financial_loan.csv)" | Sample dataset used for analysis |
+| "[PDF of Dashboard](https://github.com/Divit-Lamba/Bank-Loan-Analytics-Dashboard/blob/main/Bank_Loan.pdf)" | Contains screenshots of dashboards |
 
 ---
 
